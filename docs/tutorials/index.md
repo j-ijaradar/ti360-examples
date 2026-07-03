@@ -29,5 +29,4 @@ URL, and runs the same typed-dataset pipeline:
 - **Geolife** — `TrajectoryDataset`, stay points, map matching against an
   OSM extract.
 
-The flagship end-to-end study is the [Carola Bridge case
-study](../case-study/index.md).
+

@@ -22,7 +22,6 @@ getting-started/cli
 :caption: Tutorials
 
 tutorials/index
-case-study/index
 ```
 
 ```{toctree}
@@ -53,7 +52,5 @@ performance
 :maxdepth: 1
 :caption: Reference
 
-architecture/index
 contributing
-changelog
 ```
