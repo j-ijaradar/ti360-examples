@@ -32,12 +32,6 @@ exclude_patterns = [
     ".DS_Store",
     # compiled into the site via include shims (architecture/, changelog)
     # rather than as standalone pages
-    "README.md",
-    "architecture.md",
-    "data_contract.md",
-    "FEATURES.md",
-    "ui_architecture.md",
-    "REDESIGN_AND_ADVISOR_PLAN.md",
 ]
 
 html_theme = "furo"
